@@ -1,0 +1,19 @@
+/* @mixin border($radio) {
+    -moz-border-radius: $radio;
+    -webkit-border-radius: $radio;
+    -ms-border-radius: $radio;
+    -o-border-radius: $radio;
+    border-radius: $radio;
+}
+
+.articulo {
+    @include border(5px)
+}
+
+.caja {
+    @include border(8px)
+} */
+body {
+  background: rgba(204, 34, 238, 0.5); }
+
+/*# sourceMappingURL=mixins.css.map */
